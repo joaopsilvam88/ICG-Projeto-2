@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1555723598 source:/home/joao/Documentos/ICG3/list.cpp
+	"list.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1555723598 /home/joao/Documentos/ICG3/list.h
+
+1556056217 source:/home/joao/Documentos/ICG3/main.cpp
+	<GL/glut.h>
+	<iostream>
+	"pipeline.h"
+	"main.h"
+
+1556056217 /home/joao/Documentos/ICG3/pipeline.h
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"definitions.h"
+	"objLoader.h"
+	"mygl.h"
+
+1555723598 /home/joao/Documentos/ICG3/definitions.h
+
+1555723598 /home/joao/Documentos/ICG3/objLoader.h
+	"obj_parser.h"
+
+1555723598 /home/joao/Documentos/ICG3/obj_parser.h
+	"list.h"
+
+1555723598 /home/joao/Documentos/ICG3/mygl.h
+	<stdlib.h>
+	<iostream>
+	"definitions.h"
+
+1555723598 /home/joao/Documentos/ICG3/main.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	"definitions.h"
+	"mygl.h"
+
+1555723598 source:/home/joao/Documentos/ICG3/obj_parser.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"obj_parser.h"
+	"list.h"
+	"string_extra.h"
+
+1555723598 /home/joao/Documentos/ICG3/string_extra.h
+
+1555723598 source:/home/joao/Documentos/ICG3/objLoader.cpp
+	"objLoader.h"
+	"obj_parser.h"
+
+1555723598 source:/home/joao/Documentos/ICG3/string_extra.cpp
+	"string_extra.h"
+	<string.h>
+
